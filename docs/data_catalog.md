@@ -1,4 +1,4 @@
-## 📊 Data Catalog
+## Data Catalog
 
 **Dataset Name:** `data_jobs` Dataset.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🗂️ Table: `data_jobs`
+## Table: `data_jobs`
 
 | Column Name            | Data Type                    | Category     | Description |
 |------------------------|-----------------------------|-------------|-------------|
