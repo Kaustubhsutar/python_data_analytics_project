@@ -1,4 +1,4 @@
-## Data Catalog
+# Data Catalog
 
 **Dataset Name:** `data_jobs` Dataset.
 
